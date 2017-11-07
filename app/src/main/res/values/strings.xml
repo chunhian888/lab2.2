@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApplication1</string>
+    <string name="textViewName">Name :</string>
+    <string name="textViewEmail">Email :</string>
+    <string name="editTextName">Name</string>
+    <string name="editTextEmail">Email</string>
+</resources>
